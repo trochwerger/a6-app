@@ -7,6 +7,7 @@
  *  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
  *
  *  Name: Tomas Rochwerger Student ID: 159432210 Date: 04/12/2024
+ * Vercel App (Deployed) Link: https://a6-app-kappa.vercel.app/
  *
  ********************************************************************************/
 
