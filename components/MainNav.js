@@ -55,7 +55,7 @@ export default function MainNav() {
       >
         <Container>
           <Navbar.Brand className="user-select-none">
-            Tomas Rochwerger - 159432210
+            Metropolitan Museum of Art API
           </Navbar.Brand>
           <Navbar.Toggle
             onClick={toggleNavbar}
